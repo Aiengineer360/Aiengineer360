@@ -13,5 +13,4 @@
 - **DL/ML**: • TensorFlow • Scikit-learn • XGBoost  
 - **CV**: OpenCV • Vision Transformers (ViTs)  
 - **Deployment**: Django • Docker
--   
-![deepseek_mermaid_20250504_8d61bb](https://github.com/user-attachments/assets/679d5b18-894f-4ae9-912e-581971166219)
+---

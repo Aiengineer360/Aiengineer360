@@ -25,8 +25,9 @@ Let's Connect:
 ---
 
 ##⚡ Fun fact: 
-My LLM once generated a Python script that actually worked on first try (then woke up)  
-##I thrive on solving complex problems, experimenting with innovative ideas, and making meaningful contributions to the tech community.
+- My LLM once generated a Python script that actually worked on first try (then woke up)  
+**I thrive on solving complex problems, experimenting with innovative ideas, and making meaningful contributions to the tech community.
 ---
+
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
 ---

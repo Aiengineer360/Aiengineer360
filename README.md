@@ -1,6 +1,6 @@
 <div align="center">
 
-https://chatgpt.com/s/m_6a28febc4ba48191b66fb2db1cbb293f
+<img width="3102" height="825" alt="image" src="https://github.com/user-attachments/assets/7cb59cb7-386e-4d4a-80f4-81979f632ca5" />
 
 # Arooj Fatima
 ### AI Engineer · Generative AI · RAG Systems · MLOps
